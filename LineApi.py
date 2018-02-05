@@ -16,7 +16,7 @@ class LINE:
   mid = None
   authToken = None
   cert = None
-  channel_access_token = None
+  channel_access_token = ULwb21BoGx/7n4R19D7zMeVAmub457+H2ODZKKxw2c2cyJe8HwbkQQR+i448z0zLX6vncPfrqD/xEiwYKPhnLZ+8eHVuLJzNClhCkYPKgcuWunOW+6PAZmnDPwP+ANKy8hl+bocX2ktFrVUwVlaecAdB04t89/1O/w1cDnyilFU=
   token = None
   obs_token = None
   refresh_token = None
